@@ -11027,3 +11027,10 @@ p {
 .address strong {
   font-size: 1.2rem;
 }
+
+
+
+.instagram_link{
+  text-decoration: none;
+  transition: 1s;
+}
